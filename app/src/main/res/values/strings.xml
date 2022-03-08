@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Mldroid</string>
+    <string name="ecommerce_app">Ecommerce App</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_yet_register">Don\'t have an account yet? Register</string>
+    <string name="create_an_account">Create an Account</string>
+
+    <string name="i_agree_to_the_terms_conditions"><![CDATA[I Agree to the Terms & Conditions]]></string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="error_msg_enter_first_name">Enter first name</string>
+    <string name="registerSuccess">Successfully Registered</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobile_number">Mobile Number</string>
 </resources>
