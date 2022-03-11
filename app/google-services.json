@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603713418525",
+    "project_id": "microai-fd53d",
+    "storage_bucket": "microai-fd53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603713418525:android:58e8fbc95eb0b7c48d5df4",
+        "android_client_info": {
+          "package_name": "com.adreal.mldroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603713418525-n2v07c9au73mp3ncoppclaefbvtoaaea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLI-bveLXU3Ti5CVB8JaMtmP64uJP4hSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603713418525-n2v07c9au73mp3ncoppclaefbvtoaaea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
