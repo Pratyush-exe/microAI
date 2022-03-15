@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/adisi/StudioProjects/microAI/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/adisi/StudioProjects/microAI/app/src/main/res/layout/fragment_home.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/adisi/StudioProjects/microAI/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/adisi/StudioProjects/microAI/app/src/main/res/layout/fragment_scan.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/adisi/StudioProjects/microAI/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
         <entry key="..\:/android/microAI/app/src/main/res/drawable/background.xml" value="0.283" />
         <entry key="..\:/android/microAI/app/src/main/res/layout/activity_base.xml" value="0.359375" />
         <entry key="..\:/android/microAI/app/src/main/res/layout/activity_login.xml" value="0.359375" />
@@ -11,7 +16,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
